@@ -1,4 +1,3 @@
-#!/usr/bin/Desktop/Python
 
 shopping_list = list()
 
